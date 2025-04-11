@@ -7,10 +7,6 @@ Testing `gymnasium` environment setup before implementing Deep Q-Networks (DQN) 
 - Pong-v5
 - CartPole-v1
 
-## 🖼️ Screenshots
-
-See `/assets/` for screenshots of Pong running.
-
 ## 🚀 Plan
 
 1. Test environments ✅
