@@ -4,7 +4,7 @@ import gymnasium as gym
 gym.register_envs(ale_py) 
 
 # Create environment
-env = gym.make("CartPole-v1", render_mode="human")  # render_mode="human" to visualize
+env = gym.make("ALE/Pong-v5", render_mode="human")  # render_mode="human" to visualize
 # replace "CartPole-v1" with "ALE/Pong-v5" to play Pong or any other env
 
 # Reset environment
