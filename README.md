@@ -12,4 +12,4 @@ Testing `gymnasium` environment setup before implementing Deep Q-Networks (DQN) 
 1. Test environments ✅
 2. Push to GitHub ✅
 3. Read and implement Atari DQN paper (in progress)
-4. Apply similar methods to Trackmania
+4. Apply similar methods to games like Super Mario
