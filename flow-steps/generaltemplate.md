@@ -26,7 +26,7 @@ env.close()
 
 
 
-Pseudocode	                 🐍                        Python Code
+Pseudocode	                                         Python Code
 Initialize environment	                               env = gym.make("ALE/Pong-v5", render_mode="human")
 Reset environment to get initial state	               obs, info = env.reset()
 While not done:	                                       while not done:
